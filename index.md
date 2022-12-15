@@ -16,7 +16,7 @@ My GitHub page is http://github.com/AdrianJimenez1108.
 
     Lab 10, part 3 was one of my favorites because I was able to create an image for the first time. We hadn't done anything like this in our class yet and it was very surprising how simple it was to create an image. I was able to learn how to use GraphicsMagick to create an image.
 
-* Lab 10   
+* Lab 12   
 
     Lab 12, part 1 was one of my favorites because I was able to make an animation. It was very cool being able to create an animation and I did not think that we were going to be able to do anything like this.
     I was able to learn how to create a series of images using GraphicsMagick.
